@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            
+            DisplayWelcome();
         }
-        class DisplayWelcome
+        static void DisplayWelcome()
         {
-
+            Console.WriteLine("Welcome to Module 5!");
         }
     } 
 }

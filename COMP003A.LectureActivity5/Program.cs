@@ -10,7 +10,7 @@
 
             int age = 29;
 
-            DisplayUserInfo($"Name: {name} \nAge: {age}");
+            DisplayUserInfo($"Name: {name}, Age: {age}");
         }
         static void DisplayWelcome()
         {
